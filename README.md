@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 😄: I'm really enthusiastic about the future of technology and excited to see what's next.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](lucamartinelli.developer@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com)
 
 
 
