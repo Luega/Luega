@@ -33,7 +33,7 @@
 ### :man_technologist: About Me :
 I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture! 
 
-- 🧙‍♂️: I am focused on C#, .NET, Azure, TypeScript, Next.js, Angular.
+- 🧙‍♂️: I am focused on C#, .NET, Azure, TypeScript, Angular, Next.js.
 
 - 😲: I love continuous learning and improving day by day following a goal oriented mindset.
 
