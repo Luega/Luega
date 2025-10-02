@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Welcome</p>
+  <p style="font-size:2.5em; font-weight:bold;">Welcome</p>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
 <div>
