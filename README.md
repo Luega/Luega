@@ -1,5 +1,4 @@
 <div align="center">
-  <p style="font-size:xx-large; font-weight:bold;">Welcome</p>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
 <div>
