@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/martinelliluca/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <h1>
   Welcome to my GitHub!
 </h1>
@@ -38,4 +32,4 @@ I am a Software Developer passionate about building user-focused experiences wit
 
 - 😄: I love working in a team and bringing good vibes to the people I work with.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinelliluca/)
