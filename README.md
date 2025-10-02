@@ -1,6 +1,7 @@
-<h1>
-  Welcome to my GitHub!
-</h1>
+<div align="center">
+  <h1>
+    Welcome to my GitHub!
+  </h1>
 </div>
 
 <div align="center">
@@ -32,4 +33,14 @@ I am a Software Developer passionate about building user-focused experiences wit
 
 - 😄: I love working in a team and bringing good vibes to the people I work with.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinelliluca/)
+<div align="center">
+  <h3>
+    How to contact me
+  <h3>
+  <div>
+    [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com)
+  </div>
+  <div>
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinelliluca/)
+  </div>
+</div>
