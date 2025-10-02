@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Welcome to my GitHub!</h1>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
-
+</div>
+<div>
   <h2>What I love to use and focus on:</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="80" height="80"/>
@@ -14,28 +15,18 @@
 </div>
 <div>
   <h2>About Me:</h2>
-  <p>
-    I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture! 
-  </p>
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-   <li>🧙‍♂️: I am focused on C#, .NET, Azure, TypeScript, Angular, Next.js.</li>
-    <li>😲: I love continuous learning and improving day by day following a goal oriented mindset.</li>
-    <li>🤖: I am really excited about the world of AI and discovering new ways to integrate it into current digital products.</li>
-    <li>😄: I love working in a team and bringing good vibes to the people I work with.</li>
-  </ul>
+  <p>I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture!</p>
+  <p>🧙‍♂️: I am focused on C#, .NET, Azure, TypeScript, Angular, Next.js.</p>
+  <p>😲: I love continuous learning and improving day by day following a goal oriented mindset.</p>
+  <p>🤖: I am really excited about the world of AI and discovering new ways to integrate it into current digital products.</p>
+  <p>😄: I love working in a team and bringing good vibes to the people I work with.</p>
 </div>
 <div>
   <h2>How to contact me:<h2>
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li>
-      <a href="mailto:lucamartinelli.developer@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" title="Gmail" **alt="Gmail" width="80"/>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/martinelliluca/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn" width="80"/>
-      </a>
-    </li>
-  </ul>
+  <a href="mailto:lucamartinelli.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" title="Gmail" **alt="Gmail" width="80"/>
+  </a>
+  <a href="https://www.linkedin.com/in/martinelliluca/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn" width="80"/>
+  </a>
 </div>
