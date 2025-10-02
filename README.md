@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="mailto:lucamartinelli.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" title="Gmail" **alt="Gmail" width="80"/>
+  </a>
+  <a href="https://www.linkedin.com/in/martinelliluca/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn" width="80"/>
+  </a>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
 <div>
