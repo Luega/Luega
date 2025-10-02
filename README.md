@@ -38,9 +38,13 @@ I am a Software Developer passionate about building user-focused experiences wit
     How to contact me
   <h3>
   <div>
-    [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lucamartinelli.developer@gmail.com)
+    <a href="mailto:lucamartinelli.developer@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" title="Gmail" **alt="Gmail" width="40" height="40"/>
+    </a>
   </div>
   <div>
-    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinelliluca/)
+    <a href="https://www.linkedin.com/in/martinelliluca/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+    </a>
   </div>
 </div>
