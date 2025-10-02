@@ -11,8 +11,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
   </div>
-
-  <h2>About Me:</h2>
+</div>
+<div>
+  <h2 align="center">About Me:</h2>
   <p>
     I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture! 
   </p>
@@ -22,7 +23,8 @@
     <li>🤖: I am really excited about the world of AI and discovering new ways to integrate it into current digital products.</li>
     <li>😄: I love working in a team and bringing good vibes to the people I work with.</li>
   </ul>
-
+</div>
+<div align="center">
   <h2>How to contact me:<h2>
   <ul>
     <li>
