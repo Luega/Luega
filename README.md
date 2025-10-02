@@ -13,7 +13,7 @@
   </div>
 </div>
 <div>
-  <h2 align="center">About Me:</h2>
+  <h2>About Me:</h2>
   <p>
     I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture! 
   </p>
@@ -24,7 +24,7 @@
     <li>😄: I love working in a team and bringing good vibes to the people I work with.</li>
   </ul>
 </div>
-<div align="center">
+<div>
   <h2>How to contact me:<h2>
   <ul>
     <li>
